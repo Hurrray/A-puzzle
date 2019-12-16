@@ -1,5 +1,6 @@
 # A-puzzle
 A puzzle based on matlab
+
 运行puzzle.m即可
 
 通过第11行setdim来设置新的参数
