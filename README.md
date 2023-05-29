@@ -1,5 +1,4 @@
 # A-puzzle
-A puzzle based on matlab
 
 运行puzzle.m即可
 
